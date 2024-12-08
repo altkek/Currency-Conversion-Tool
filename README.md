@@ -1,6 +1,4 @@
 # Currency-Conversion-Tool
-Individual contribution
-Contribution: Input Handling and Menu Design
 I designed and implemented the input handling section of the currency converter program. This includes:
 1.	Developing a user-friendly menu with clearly labelled options for various currency conversions to ensure ease of navigation:
 printf("Currency Exchange Tool\n");
